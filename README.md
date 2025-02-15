@@ -1,0 +1,2 @@
+This is just a simple little project that i started to do in html its helping me build a better website in the long run so im just experimenting with different techniques to improve my skills. It's a mess i kmow but im wanting to improve it more and do a more finalised website.
+ive used the div function to separate out each indiviual section of my website so i can see it more clearly and easier to add different css rather than grouping all of them into one.
